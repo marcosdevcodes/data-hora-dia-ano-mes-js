@@ -1,0 +1,19 @@
+body{
+    background: #7f7f7f;
+    text-align: center;
+    justify-content: center;
+    
+  }
+  #datahora{
+    width: 350px;
+    background: black;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin-left: 40%;
+    margin-top: 10%;
+    border-radius: 15px;
+    font-size: 1em;
+    font-family: monospace;
+  }
